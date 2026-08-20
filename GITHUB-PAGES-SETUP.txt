@@ -1,0 +1,15 @@
+AdCut Website 2.0 — GitHub Pages setup
+
+1. Upload the CONTENTS of this folder to the root of the repository.
+2. GitHub: Settings → Pages.
+3. Source: Deploy from a branch.
+4. Branch: main. Folder: / (root).
+5. Save and wait for the deployment to finish.
+6. Test the GitHub Pages URL before configuring a custom domain.
+
+The website uses relative asset and page paths so the logo and pages work on GitHub Pages and remain portable to a custom domain.
+
+Custom domain (later): add the domain in Settings → Pages → Custom domain, then configure the required DNS records at the domain provider.
+
+Brand: AdCut 2.0
+Built by Rakesh V
